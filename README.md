@@ -1,5 +1,5 @@
 # banner
-#installing in termux
+# Installing in termux
 ```
 git clone https://github.com/sparkz-technology/banner
 
